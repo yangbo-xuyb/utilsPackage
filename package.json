@@ -1,0 +1,21 @@
+{
+  "name": "mzy_easy_utils",
+  "version": "1.0.5",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CiroMzy/utilsPackage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CiroMzy/utilsPackage/issues"
+  },
+  "homepage": "https://github.com/CiroMzy/utilsPackage#readme",
+  "_from": "mzy_easy_utils@1.0.4",
+  "_resolved": "https://registry.npm.taobao.org/mzy_easy_utils/download/mzy_easy_utils-1.0.4.tgz?cache=0&sync_timestamp=1578361401480&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fmzy_easy_utils%2Fdownload%2Fmzy_easy_utils-1.0.4.tgz"
+}
